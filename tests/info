@@ -1,0 +1,6 @@
+
+This module contains basic UI tests using Playwright.
+Their purpose is to show how to use the pytest framework by example.
+
+By default playwright runs browser in headless mode, to make it headed we need to pass --headed
+To see the browser window, we can pass --slowmo <time_in-miliSeconds>
